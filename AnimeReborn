@@ -12,4 +12,5 @@ game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents")
 
 wait(3)
 
+print("No exploiting.")
 game.Players.LocalPlayer:Kick("Ich gehe jetzt schlafen, maybe geb ich es dir morgen! -Shiny")
